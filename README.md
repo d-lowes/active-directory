@@ -82,6 +82,11 @@ This tutorial outlines the step-by-step process of deploying an on-premises Acti
 
 **2.** Verify the new accounts in the appropriate OU in ADUC.
 
+
+## IMPORTANT
+When you are finsished with the lab, delete your Azure resources. This is crucial, as you will be charged credits for having resource groups. Best practice is to delete all resource groups and double check that they are deleted properly.
+
+
 ## Conclusion
 
 Congratulations! You have successfully set up an Active Directory environment using Azure Virtual Machines, including a domain controller and client machine configuration. You've also performed basic AD management tasks, such as user creation and domain joining. This foundation enables further exploration of AD features and services in a cloud environment.
