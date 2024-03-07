@@ -83,7 +83,7 @@ This tutorial outlines the step-by-step process of deploying an on-premises Acti
 **2.** Verify the new accounts in the appropriate OU in ADUC.
 
 
-## IMPORTANT
+## IMPORTANT!
 When you are finsished with the lab, delete your Azure resources. This is crucial, as you will be charged credits for having resource groups. Best practice is to delete all resource groups and double check that they are deleted properly.
 
 
